@@ -9,6 +9,8 @@ by Lucas Makinen [<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMN
 
 >run the [browser-based tutorial in Colab](https://colab.research.google.com/drive/1SuYCYfrdA0mc0X8tBTja26ih0qw7hVi5#scrollTo=rhDw3VXPPDMW) [<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/colab-logo.png" alt="drawing" width="20"/>](https://colab.research.google.com/drive/1SuYCYfrdA0mc0X8tBTja26ih0qw7hVi5#scrollTo=rhDw3VXPPDMW)
 
+<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/imnn-scheme.png" alt="drawing" width="700"/>
+
 
 ![full-diagram](https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/anim-diagram.png)
 
