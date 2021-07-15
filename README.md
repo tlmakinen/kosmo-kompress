@@ -12,5 +12,5 @@ by Lucas Makinen [<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMN
 <img src="https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/imnn-scheme.png" alt="drawing" width="700"/>
 
 
-<>![full-diagram](https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/anim-diagram.png)
-
+<!---[full-diagram](https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/anim-diagram.png)
+-->
