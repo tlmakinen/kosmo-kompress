@@ -6,7 +6,7 @@ by Lucas Makinen [<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMN
 >read the paper: [on arXiv tomorrow !]
 
 >get the code:  [https://github.com/tlmakinen/FieldIMNNs](https://github.com/tlmakinen/FieldIMNNs)
-
+>run the browser-based tutorial in Colab: [<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/       master/tutorial/plots/colab-log.png" alt="drawing" width="20"/>](https://colab.research.google.com/drive/1SuYCYfrdA0mc0X8tBTja26ih0qw7hVi5#scrollTo=rhDw3VXPPDMW"")
 
 
 ![full-diagram](https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/anim-diagram.png)
