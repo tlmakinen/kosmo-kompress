@@ -10,5 +10,4 @@ by Lucas Makinen [<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMN
 
 
 ![full-diagram](https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/anim-diagram.png)
-$\quad$
 
