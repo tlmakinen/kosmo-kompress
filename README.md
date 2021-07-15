@@ -16,3 +16,6 @@ Full documentation coming soon !
 
 <!---[full-diagram](https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/anim-diagram.png)
 -->
+
+
+<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/new-four-cosmo-field-comparison.png" alt="drawing" width="700"/>
