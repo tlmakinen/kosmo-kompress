@@ -7,7 +7,7 @@ by Lucas Makinen [<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMN
 
 >get the code:  [https://github.com/tlmakinen/FieldIMNNs](https://github.com/tlmakinen/FieldIMNNs)
 
->run the [browser-based tutorial in Colab](https://colab.research.google.com/drive/1SuYCYfrdA0mc0X8tBTja26ih0qw7hVi5#scrollTo=rhDw3VXPPDMW) [<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/colab-logo.png" alt="drawing" width="20"/>](https://colab.research.google.com/drive/1SuYCYfrdA0mc0X8tBTja26ih0qw7hVi5#scrollTo=rhDw3VXPPDMW)
+>run the [browser-based tutorial in Colab](https://bit.ly/imnn-cosmo) [<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/colab-logo.png" alt="drawing" width="20"/>](https://bit.ly/imnn-cosmo)
 
 Full documentation coming soon !
 
