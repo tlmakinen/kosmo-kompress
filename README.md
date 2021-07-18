@@ -19,3 +19,8 @@ Full documentation coming soon !
 
 
 <img src="https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/new-four-cosmo-field-comparison.png" alt="drawing" width="700"/>
+
+>how to cite this code:
+>if you find this code useful for your analyses, please cite the associated paper, as well as:
+>-IMNN paper: [https://arxiv.org/abs/1802.03537](https://arxiv.org/abs/1802.03537)
+>-DELFI paper: [https://arxiv.org/abs/1903.00007](https://arxiv.org/abs/1903.00007)
