@@ -18,7 +18,7 @@ Full documentation coming soon !
 -->
 
 
-<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/new-four-cosmo-field-comparison.png" alt="drawing" width="700"/>
+<img src="https://raw.githubusercontent.com/tlmakinen/FieldIMNNs/master/tutorial/plots/scratch-four-cosmo-field-comparison.png" alt="drawing" width="700"/>
 
 >how to cite this code:
 >if you find this code useful for your analyses, please cite the associated paper, as well as:
