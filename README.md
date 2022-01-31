@@ -1,6 +1,6 @@
 # kosmo-kompress
 
- [![arXiv](https://img.shields.io/badge/arXiv-2011.05991-b31b1b.svg)](https://arxiv.org/abs/2107.07405) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/imnn-cosmo)
+ [![arXiv](https://img.shields.io/badge/arXiv-2107.07405-b31b1b.svg)](https://arxiv.org/abs/2107.07405) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/imnn-cosmo)
 
 ### Field-level cosmological inference with Information Maximising Neural Networks (IMNNs) and Density Estimation Likelihood-Free Inference (DELFI)
 
